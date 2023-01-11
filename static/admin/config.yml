@@ -11,10 +11,10 @@ collections:
     label: 'Blog'
     folder: 'content/blog'
     create: true
-    slug: '{{slug}}'
+    slug: 'index'
     media_folder: ''
     public_folder: ''
-    path: '{{title}}/index'
+    path: '{{title}}'
     editor:
       preview: false
     fields:
