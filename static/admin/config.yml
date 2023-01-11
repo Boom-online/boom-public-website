@@ -3,7 +3,6 @@ backend:
   repo: Boom-online/boom-public-website
   branch: main
 
-
 media_folder: static/img
 public_folder: /img
 
